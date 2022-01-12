@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/reddavis/Documents/Projects/Toolbox/Toolbox/Source/Extensions/Array+Extension.swift",
+      "line": 7,
+      "symbol": "Array.subscript(safe:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/reddavis/Documents/Projects/Toolbox/Toolbox/Source/Extensions/Array+Extension.swift",
+      "line": 17,
+      "symbol": "Array.subscript(safe:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/reddavis/Documents/Projects/Toolbox/Toolbox/Source/Protocols/Fixture.swift",
+      "line": 4,
+      "symbol": "Fixture",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/reddavis/Documents/Projects/Toolbox/Toolbox/Source/Protocols/Fixture.swift",
+      "line": 5,
+      "symbol": "Fixture.fixture(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/reddavis/Documents/Projects/Toolbox"
+}
