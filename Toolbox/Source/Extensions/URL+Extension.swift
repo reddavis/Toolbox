@@ -12,7 +12,7 @@ extension URL {
     }
     
     /// A URL to the temporary directory.
-    public static var temporaryDirectory: URL {
+    public static var _temporaryDirectory: URL {
         URL(
             fileURLWithPath: NSTemporaryDirectory(),
             isDirectory: true
